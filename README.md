@@ -11,9 +11,9 @@ This Tableau dashboard shows the profitability of the company at a glance for al
 
 **Profit timeline (week-to-week average)**: This line chart shows the profit for each week over time, averaged over a 6-week period.
 
-The dashboard is currently showing the profitability for all categories. The overall profit for the company is ₹2,326,534. The most profitable region is Region 1, with a profit of ₹804. The least profitable region is Region 4, with a profit of ₹5,111.
+The dashboard is currently showing the profitability for all categories. The overall profit for the company is ₹292,297. The most profitable region is Region 1, with a customers of 804. The Total number of orders are 5111.
 
-The profit timeline shows that the company's profit has been increasing steadily over time. The average profit for the week of 17-11-2023 is ₹10,000.
+The profit timeline shows that the company's profit has been increasing steadily over time. The average profit for the week of 2023 is ₹10,000.
 
 Overall, this dashboard provides a clear and concise overview of the company's profitability. It can be used by managers to identify trends and areas for improvement.
 
