@@ -1,5 +1,7 @@
 # Super-Store-Tableau-Dashboard
 Tableau Project that aims to create a Dashboard for Sample Super Store Dataset
+Live Dashboard Link : https://public.tableau.com/app/profile/akshay.sanas/viz/SuperStoreDashboard_17002287780350/SuperStoreDashboard
+
 
 This Tableau dashboard shows the profitability of the company at a glance for all regions. It includes the following components:
 
